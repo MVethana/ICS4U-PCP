@@ -13,21 +13,22 @@
 
 ## Technology
 Indicate what technology you plan to explore/use:
- - Computer With Java , JDK & Minecraft Installed
- * Eclipse IDE
- * Github
+- Computer With Java , JDK & Minecraft Installed
+- Eclipse IDE
+- Github
 
 ## Benefits
 - Creating a modification for game that I love, will benefit me as I will be able to play with the mod and hopefully continue to work on it after the duration of this course and afterwards, share it with others who also wish to play with the mod.
 
 ## Forseeable Challenges
-- Learning a new language
-- Learning how to use and implement an API
+- Learning a New Language
+- Learning How to Use and Implement an API
+- Creating Aesthetic Graphics
 
 ## High-Level Learning & Action Outline
- * Brainstorm Application Functionality - 1 Week
- * Learn Java & Forge - 4 Weeks
- * Application Mock-Ups - 1 Week
- * Development - 6 Weeks
- * Testing & Fixing - 1 Week
- * Documentation - 1 Week
+- Brainstorm Application Functionality - 1 Week
+- Learn Java & Forge - 4 Weeks
+- Application Mock-Ups - 1 Week
+- Development - 6 Weeks
+- Testing & Fixing - 1 Week
+- Documentation - 1 Week
