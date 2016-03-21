@@ -1,32 +1,32 @@
 # Initial Project Statement
-<delete this line> This page will serve as your initial project statement. Remove this line once you start ...
 
 ## Objective
-State the goal of this project.  What will you be creating?
+- Create a Minecraft Mod (Modification) Which Will Add Content To The Game That is Not Found Within The Original Installation
 
 ## Motivations
-What are your motivations for your objective?  Why do you wish to create what you have stated.
+- Minecraft was one of the games that I played the most during younger years. After growing bored of the "Vanilla" experience, I began to playing Minecraft with different mods that made Minecraft more realistic through the introduction of factorization to a block based game.
 
 ## Languages
-What programming languages do you for see learning and/or applying?  Although you are in the initial stages, be as specific as possible:
- * what facets of the language are you using i.e coding packages(i.e pygames, kivi, pysfml), APIs (i.e twitter, instagram, google maps)
+- Java
+- Forge
+- CoFH API
 
 ## Technology
 Indicate what technology you plan to explore/use:
- * hardware (mobile devices, input controllers)
- * IDE
- * Aspects of Version Control(git/github)
+ - Computer With Java , JDK & Minecraft Installed
+ * Eclipse IDE
+ * Github
 
 ## Benefits
-How will you benefit from this project?
+- Creating a modification for game that I love, will benefit me as I will be able to play with the mod and hopefully continue to work on it after the duration of this course and afterwards, share it with others who also wish to play with the mod.
 
 ## Forseeable Challenges
-Indicate any challanges you forsee going into the project
+- Learning a new language
+- Learning how to use and implement an API
 
 ## High-Level Learning & Action Outline
-As best you can, provide a general outline of how you will dedicate your time from now until mid-june.  You can outline in units of weeks for now.  For example, if you were to work towards creating an iOS application, an outline could look like this:
- * Brainstorm application functionality - 1 Week
- * Learn Swift - 4 Weeks
+ * Brainstorm Application Functionality - 1 Week
+ * Learn Java & Forge - 4 Weeks
  * Application Mock-Ups - 1 Week
  * Development - 6 Weeks
  * Testing & Fixing - 1 Week
